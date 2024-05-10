@@ -94,3 +94,8 @@
     "node": ">=14"
   }
 }
+{
+  "scripts": {
+    "build": "hexo generate"
+  }
+}
